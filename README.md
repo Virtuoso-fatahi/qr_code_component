@@ -21,8 +21,8 @@ This project is to build out a QR code component and get it to look as close as 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-using-css-flexbox-lDQQ7BewT1)
+Live Site URL: (https://qrcodesolutions.netlify.app/)
 
 ## My process
 
@@ -46,7 +46,6 @@ In my future project, I would like to work on projects using the best practices 
 
 - Website - [Fatahi Showunmi](https://dev.to/virtuosofatahi)
 - Frontend Mentor - [@Virtuoso-fatahi](https://www.frontendmentor.io/profile/Virtuoso-fatahi)
-- X (formerly Twitter) - [@yourusername](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
 
